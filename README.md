@@ -11,3 +11,5 @@ test 5
 
 FINAL IS LOCAL DIRTORY
 test branch time
+
+git.training
